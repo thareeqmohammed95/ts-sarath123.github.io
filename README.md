@@ -3,7 +3,6 @@ my fab lab experiences.
 <br>
 ## About me:
 <br>
-I am a final year mechanical engineering student.
-<a href="https://google.com">
-  visit
-  
+<style="colour:red">
+#### I am a final year mechanical engineering student.
+
