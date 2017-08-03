@@ -10,4 +10,4 @@ Check this blog periodically for more updates about 3D printer, vinyl printer, p
   <br> </p>
 ## What is a Fablab?
 <p>Fablab or fabrication lab is a small scale workshop equipped with computer controlled tools with the aim to make "ALMOST ANYTHING".
-<img src="photo_2017-08-03_19-44-53.jpg" alt="aaha" height="300" width="400">
+<img src="photo_2017-08-03_19-44-53.jpg" alt="aaha" height="300" width="600">
