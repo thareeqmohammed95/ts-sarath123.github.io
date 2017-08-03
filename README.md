@@ -1,7 +1,9 @@
-# ts-sarath123.github.io
+# Sarath Kumar T S
 my fab lab experiences.
 <br>
 ## About me:
 <br>
-#### I am a final year mechanical engineering student.
-
+<p>
+#### I am a final year mechanical engineering student persuing my graduation from MES college of engineering, Kuttipuram.
+This is a diary of my fablab experience. Meet me in facebook @ <a href="https://www.facebook.com/sarath.roddick"> click
+  
