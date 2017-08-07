@@ -40,9 +40,9 @@ Printed circuit board milling (also: isolation milling) is the process of removi
 ## Day 1
 <br> <br> <p>
  It is really proud to say that i was a member of the first student development program in the fablab. Our instructor Mr. Jaseel gave us a brief explanation of fablab and the scope of fablab. His words was so impressive that many of us including me thought of taking fablab as a carrier option. He also explained about the overall works to be done in this 2 week workshop. He introduced new websites to us and asked us to make our own websites. 
- </p> <br><br>
+ </p> <br> <br>
+ 
  ## Day 2
- <br> <br>
- <p> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups. That's all for the day. Stay tuned for more updates.
+ <br> <br> <p> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups. That's all for the day. Stay tuned for more updates.
   </p> <br>
   
