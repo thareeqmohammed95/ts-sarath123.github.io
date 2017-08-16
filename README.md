@@ -38,7 +38,7 @@ Printed circuit board milling (also: isolation milling) is the process of removi
 <br><br>A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 <br><br>
 ## Day 1
-<br><br><br> <br>
+<br><br>
  It is really proud to say that i was a member of the first student development program in the fablab.
  Our instructor Mr. Jaseel gave us a brief explanation of fablab and the scope of fablab. 
  His words was so impressive that many of us including me thought of taking fablab as a carrier option. 
@@ -48,3 +48,29 @@ Printed circuit board milling (also: isolation milling) is the process of removi
 ## Day 2
  <br> <br> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups for further convenience. That's all for the day. Stay tuned for more updates.
   <br>
+## Day 3
+<br><br> Today we learned Rhino software and designing using that. Made a small 3D printer model and also printed it. Also had a brief knowledge about the working of 3D printer.<br>
+<img src="IMG_20170808_173112.jpg" height="600" width="600">
+<br><br>
+## Day 4
+<br><br>
+Today was an extrordinary day because we learned to use almost every machine in the lab. First of all, we learned to design and print pcb using fabmodules and shopboat software. <br><br>
+<img src="IMG_20170816_170233.jpg" height="600" width="600">
+<br><br>
+Next we learned to use vinyl cutter. The software used for this is Cut Studio. <br><br>
+<img src="IMG_20170816_181311.jpg" height="600" width="600">
+<br><br>
+Then we moved on to laser cutter for which we can use any designing softwares to design. <br><br>
+<img src="IMG_20170816_175800.jpg" height="600" width="600"> <br><br> 
+We also did some engraving work using laser cutter<br>
+<img src="IMG_20170816_185549.jpg" height="600" width="600">
+<br>
+#### Engraving on cardboard
+<br>
+<img src="IMG_20170816_190114.jpg" height="600" width="600">
+<br><br>
+#### Engraving on mica board
+<br>
+<img src="IMG_20170816_231116.jpg" height="600" width="600">
+<br> <br>
+Stay tuned for more updates...
