@@ -37,7 +37,7 @@ Printed circuit board milling (also: isolation milling) is the process of removi
 <img src="roland.jpg" height="600" width="600">
 <br><br>A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 <br><br>
-http://ts-sarath123.github.io/DAY-1.github.io/
+http://ts-sarath123.github.io/DAY-1.github.io
 ## Day 2
  <br> <br> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups for further convenience. That's all for the day. Stay tuned for more updates.
   <br>
