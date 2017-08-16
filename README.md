@@ -65,12 +65,11 @@ Then we moved on to laser cutter for which we can use any designing softwares to
 We also did some engraving work using laser cutter<br>
 <img src="IMG_20170816_185549.jpg" height="600" width="600">
 <br>
-#### Engraving on cardboard
-<br>
+#### Engraving on cardboard:
 <img src="IMG_20170816_190114.jpg" height="600" width="600">
 <br><br>
-#### Engraving on mica board
-<br>
+
+#### Engraving on mica board:
 <img src="IMG_20170816_231116.jpg" height="600" width="600">
 <br> <br>
 Stay tuned for more updates...
