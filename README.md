@@ -77,7 +77,7 @@ Now click 'Print' from the File menu<br>
 Release the sheet holder after printing and cut out the required portion from the sheet.<br>
 Now cover the cut out portion using a masking sheet.<br>
 After removing the masking sheet the required portion to be pasted will hold on to the mask.<br>
-Now stick mask sheet on required place and remove the mask sheet using small forceps.
+Now stick mask sheet on required place and remove the mask sheet using small forceps*
 <br><br>
 <img src="IMG_20170816_181311.jpg" height="600" width="600">
 <br><br>
