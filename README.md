@@ -42,13 +42,13 @@ Printed circuit board milling (also: isolation milling) is the process of removi
  It is really proud to say that i was a member of the first student development program in the fablab.
  Our instructor Mr. Jaseel gave us a brief explanation of fablab and the scope of fablab. 
  His words was so impressive that many of us including me thought of taking fablab as a carrier option. 
- He also explained about the overall works to be done in this 2 week workshop. 
+ He also explained a.bout the overall works to be done in this 2 week workshop. 
  He introduced new websites to us and asked us to make our own websites. 
  <br> <br>
 ## Day 2
  <br> <br> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups for further convenience. That's all for the day. Stay tuned for more updates.
   <br>
-## Day 3
+## Day 3 
 <br><br> Today we learned Rhino software and designing using that. Made a small 3D printer model and also printed it. Also had a brief knowledge about the working of 3D printer.<br>
 <img src="IMG_20170808_173112.jpg" height="600" width="600">
 <br><br>
@@ -57,7 +57,28 @@ Printed circuit board milling (also: isolation milling) is the process of removi
 Today was an extrordinary day because we learned to use almost every machine in the lab. First of all, we learned to design and print pcb using fabmodules and shopboat software. <br><br>
 <img src="IMG_20170816_170233.jpg" height="600" width="600">
 <br><br>
-Next we learned to use vinyl cutter. The software used for this is Cut Studio. <br><br>
+Next we learned to use vinyl cutter. The software used for this is Cut Studio.
+# To cut texts: <br>
+*Open Cut Studio.<br>
+Select the Text option.<br>
+Type the text to be printed.<br>
+Select the text and go to the Properties option to change the font size and style. <br>
+Press Ok button*.<br><br>
+# Printing using vinyl printer:<br>
+*Power on the printer.<br>
+Release the sheet holder and keep the sheet inside the printer.<br>
+Adjust the length of work by changing the position of limiters.<br>
+Always ensure that the limiters are in between the white marks in the printer.<br>
+Now engage the sheet holder.<br>
+Select the type of the sheet(roll, piece, edge) in which the work is to be done<br>
+Now set the point to start the work by using the navigation button on the machine.<br>
+Long press 'Origin' button to set the origin.<br>
+Now click 'Print' from the File menu<br>
+Release the sheet holder after printing and cut out the required portion from the sheet.<br>
+Now cover the cut out portion using a masking sheet.<br>
+After removing the masking sheet the required portion to be pasted will hold on to the mask.<br>
+Now stick mask sheet on required place and remove the mask sheet using small forceps.
+<br><br>
 <img src="IMG_20170816_181311.jpg" height="600" width="600">
 <br><br>
 Then we moved on to laser cutter for which we can use any designing softwares to design. <br><br>
@@ -72,4 +93,4 @@ We also did some engraving work using laser cutter<br>
 #### Engraving on mica board:
 <img src="IMG_20170816_231116.jpg" height="600" width="600">
 <br> <br>
-Stay tuned for more updates...
+
