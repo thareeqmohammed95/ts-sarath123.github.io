@@ -113,14 +113,19 @@ Select the Vinyl printer from print setup.*<br><br>
 *Load the design file using any designing softwares.<br>
 Select the Print option from the File menu.<br>
 Select the laser cutter from Select printer menu.<br>
-Choose the required power and speed.*<br>
-### NOTE:<br>
-<p><font size="2" color="red">You can control how much power will be applied to the laser while printing. The more power- the more heat, and the more heat- the greater the chance of fire.<br>
+Choose the required power and speed.<br>
+Choose between Vector and Raster options.*<br>
 
-The speed you choose, determines how fast the laser will travel while cutting. The slower the speeds, the longer the laser sits in each spot, which yields more heat. It also means that the slower the speed, the deeper the cut or engraving will be.</font></p><br>
-*Choose between Vector and Raster options.*<br>
 ### NOTE:<br>
-<p><font size="2" color"red">Raster tends to be used for engraving things, while vector is much more adept at cutting things out.</font></p>
+<font size="2" color="red">
+You can control how much power will be applied to the laser while printing. The more power- the more heat, and the more heat- the greater the chance of fire.<br>
+
+The speed you choose, determines how fast the laser will travel while cutting. The slower the speeds, the longer the laser sits in each spot, which yields more heat. It also means that the slower the speed, the deeper the cut or engraving will be.<br>
+<br></font>
+
+### NOTE:<br>
+<font size="2" color="red">
+Raster tends to be used for engraving things, while vector is much more adept at cutting things out.</font>
 ## Day 6<br><br>
 ## How to use a 3D printer
 <br><br>
@@ -133,9 +138,9 @@ Select Helper Parts on the Sidebar. Set the desired strength and enable or disab
 To view the result of the selected profile and support settings, go to the “View mode” and select “Layers”.
 In the bottom right corner, select “Save file” or “Save to USB” to save the print file.*<br><br>
 My model in Cura software<br>
-<img src="sarath[1].png" height="60" width="70">
+<img src="sarath[1].png" height="600" width="700">
 
 My multi holder:
 <img src="IMG-20170820-WA0035[1].jpg" height="600" width="700">
 <br><br>
-<img src="DSC06420.jpg" height="600" width="700">
+<img src="IMG_20170820_214156[1].jpg" height="600" width="700">
