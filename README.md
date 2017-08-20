@@ -125,8 +125,10 @@ The speed you choose, determines how fast the laser will travel while cutting. T
 
 ### NOTE:<br>
 <font size="2" color="red">
-Raster tends to be used for engraving things, while vector is much more adept at cutting things out.</font>
+Raster tends to be used for engraving things, while vector is much more adept at cutting things out.</font><br><br>
+
 ## Day 6<br><br>
+
 ## How to use a 3D printer
 <br><br>
 *Design the work using any of design softwares.<br>
