@@ -37,6 +37,23 @@ Printed circuit board milling (also: isolation milling) is the process of removi
 <img src="roland.jpg" height="600" width="600">
 <br><br>A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
 <br><br>
+## SYLLABUS<br>
+Day 1 : Introduction to Fablab <br><br>
+
+Day 2 : Github Pages and Documentation<br><br>
+                               
+Day 3: Electronics Production and CNC<br><br>
+                                
+DAY 4 : Vinyl Cutting<br><br>
+                                	
+DAY 5 : Screen Printing<br><br>
+                                	
+DAY 6 : 3D Printing<br><br>
+                                
+Day 7 : Laser Cutting, Moulding and Casting<br><br>
+                                
+Project
+
 ## Day 1
 <br><br>
  It is really proud to say that i was a member of the first student development program in the fablab.
@@ -46,8 +63,7 @@ Printed circuit board milling (also: isolation milling) is the process of removi
  He introduced new websites to us and asked us to make our own websites. 
  <br> <br>
 ## Day 2
- <br> <br> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups for further convenience. That's all for the day. Stay tuned for more updates.
-  <br>
+ <br> <br> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups for further convenience. We started documenting. <br><br>
 ## Day 3 
 <br><br> Today we learned Rhino software and designing using that. Made a small 3D printer model and also printed it. Also had a brief knowledge about the working of 3D printer.<br>
 <img src="IMG_20170808_173112.jpg" height="600" width="600">
@@ -58,13 +74,13 @@ Today was an extrordinary day because we learned to use almost every machine in 
 <img src="IMG_20170816_170233.jpg" height="600" width="600">
 <br><br>
 Next we learned to use vinyl cutter. The software used for this is Cut Studio.
-# To cut texts: <br>
+### To cut texts: <br>
 *Open Cut Studio.<br>
 Select the Text option.<br>
 Type the text to be printed.<br>
 Select the text and go to the Properties option to change the font size and style. <br>
 Press Ok button*.<br><br>
-# Printing using vinyl printer:<br>
+### Printing using vinyl printer:<br>
 *Power on the printer.<br>
 Release the sheet holder and keep the sheet inside the printer.<br>
 Adjust the length of work by changing the position of limiters.<br>
@@ -81,7 +97,40 @@ Now stick mask sheet on required place and remove the mask sheet using small for
 <br><br>
 <img src="IMG_20170816_181311.jpg" height="600" width="600">
 <br><br>
-Then we moved on to laser cutter for which we can use any designing softwares to design. <br><br>
+### Printing images:<br>
+You can also print images just like texts. Follow these steps to print images using 3D printer.<br>
+*You can design your file in any of the design softwares or transform a photo file into a design.<br>
+First download or select the required image.<br>
+Open it in any photo editting softwares.<br>
+Select click on 'Image processing' and select 'NEON' to get the outline.<br>
+Delete the original image.<br>
+Adjust the height and width according to your wish.<br>
+Select 'Print' from 'FILE' menu.<br>
+Select the Vinyl printer from print setup.*<br><br>
+## Day 5
+<br><br>
+## How to use Laser Cutter
+<br><br>
+*Load the design file using any designing softwares.<br>
+Select the Print option from the File menu.<br>
+Select the laser cutter from Select printer menu.<br>
+Choose the required power and speed.*<br>
+### NOTE:<br>
+<p><font size="2" color="red">You can control how much power will be applied to the laser while printing. The more power- the more heat, and the more heat- the greater the chance of fire.<br>
+
+The speed you choose, determines how fast the laser will travel while cutting. The slower the speeds, the longer the laser sits in each spot, which yields more heat. It also means that the slower the speed, the deeper the cut or engraving will be.</font></p><br>
+*Choose between Vector and Raster options.*<br>
+### NOTE:<br>
+<p><font size="2" color="red">Raster tends to be used for engraving things, while vector is much more adept at cutting things out.</font></p>
+
+*In the Print Preferences, click the “Auto Focus” button and left centered. This will ensure the laser is the proper distance away from whatever you’re cutting to get the most accurate cuts.<br>
+Place the material and set X,Y Coordinates.<br>
+[Optional] Test run the design file. 
+Click GO with the lid of the laser cutter open.*<br>
+### NOTE:
+<p><font size="2" color="red">Laser Cutter won’t print with the lid open, so it’s a good way to do a test run on your piece.</font></p>
+*Switch on the air pump to exhaust the gases produced during cutting.<br>
+Press GO with lid closed to cutted your design file.<br><br>
 <img src="IMG_20170816_175800.jpg" height="600" width="600"> <br><br> 
 We also did some engraving work using laser cutter<br>
 <img src="IMG_20170816_185549.jpg" height="600" width="600">
