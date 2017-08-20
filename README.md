@@ -57,10 +57,9 @@ Project
 ## Day 1
 <br><br>
  It is really proud to say that i was a member of the first student development program in the fablab.
- Our instructor Mr. Jaseel gave us a brief explanation of fablab and the scope of fablab. 
+ Our instructor<a href="http://archive.fabacademy.org/archives/2016/fablabtrivandrum/students/390/"> Mr. Jaseel</a> gave us a brief explanation of fablab and the scope of fablab. 
  His words was so impressive that many of us including me thought of taking fablab as a carrier option. 
- He also explained a.bout the overall works to be done in this 2 week workshop. 
- He introduced new websites to us and asked us to make our own websites. 
+ He also explained about the overall works to be done in this 2 week workshop and introduced new websites to us and asked us to make our  own websites. 
  <br> <br>
 ## Day 2
  <br> <br> Jaseel sir introduced us to the various equipments in the lab. Those equipments are mentioned above. Today we learned how to do documentation. After that the whole batch was grouped into 2 groups for further convenience. We started documenting. <br><br>
@@ -132,22 +131,11 @@ Use the Adjustment Tools to position, scale and rotate the object if desired.<br
 In the Sidebar, select the nozzle size and material you want to use. Make sure it matches the setup on the printer.<br>
 Select Helper Parts on the Sidebar. Set the desired strength and enable or disable support and build plate adhesion.<br>
 To view the result of the selected profile and support settings, go to the “View mode” and select “Layers”.
-In the bottom right corner, select “Save file” or “Save to USB” to save the print file.
+In the bottom right corner, select “Save file” or “Save to USB” to save the print file.*<br><br>
+My model in Cura software<br>
+<img src="sarath[1].png" height="60" width="70">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+My multi holder:
+<img src="IMG-20170820-WA0035[1].jpg" height="600" width="700">
+<br><br>
+<img src="DSC06420.jpg" height="600" width="700">
