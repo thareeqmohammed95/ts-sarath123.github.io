@@ -121,25 +121,33 @@ Choose the required power and speed.*<br>
 The speed you choose, determines how fast the laser will travel while cutting. The slower the speeds, the longer the laser sits in each spot, which yields more heat. It also means that the slower the speed, the deeper the cut or engraving will be.</font></p><br>
 *Choose between Vector and Raster options.*<br>
 ### NOTE:<br>
-<p><font size="2" color="red">Raster tends to be used for engraving things, while vector is much more adept at cutting things out.</font></p>
-
-*In the Print Preferences, click the “Auto Focus” button and left centered. This will ensure the laser is the proper distance away from whatever you’re cutting to get the most accurate cuts.<br>
-Place the material and set X,Y Coordinates.<br>
-[Optional] Test run the design file. 
-Click GO with the lid of the laser cutter open.*<br>
-### NOTE:
-<p><font size="2" color="red">Laser Cutter won’t print with the lid open, so it’s a good way to do a test run on your piece.</font></p>
-*Switch on the air pump to exhaust the gases produced during cutting.<br>
-Press GO with lid closed to cutted your design file.<br><br>
-<img src="IMG_20170816_175800.jpg" height="600" width="600"> <br><br> 
-We also did some engraving work using laser cutter<br>
-<img src="IMG_20170816_185549.jpg" height="600" width="600">
-<br>
-#### Engraving on cardboard:
-<img src="IMG_20170816_190114.jpg" height="600" width="600">
+<p><font size="2" color"red">Raster tends to be used for engraving things, while vector is much more adept at cutting things out.</font></p>
+## Day 6<br><br>
+## How to use a 3D printer
 <br><br>
+*Design the work using any of design softwares.<br>
+Save the file in STL format.<br>
+Open the file in 'CURA'.<br>
+Use the Adjustment Tools to position, scale and rotate the object if desired.<br>
+In the Sidebar, select the nozzle size and material you want to use. Make sure it matches the setup on the printer.<br>
+Select Helper Parts on the Sidebar. Set the desired strength and enable or disable support and build plate adhesion.<br>
+To view the result of the selected profile and support settings, go to the “View mode” and select “Layers”.
+In the bottom right corner, select “Save file” or “Save to USB” to save the print file.
 
-#### Engraving on mica board:
-<img src="IMG_20170816_231116.jpg" height="600" width="600">
-<br> <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
